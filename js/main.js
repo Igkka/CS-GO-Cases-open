@@ -6,7 +6,7 @@ const asideItems = document.querySelector(".aside-items")
 const coin = document.querySelector("#coin")
 
 const musicPack = {
-    spin:"../sounds/spin.mp3"
+    spin:"./sounds/spin.mp3"
 }
 
 let wallet = 0
